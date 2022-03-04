@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Azure Projects with Dotnet
+- 🌱 I’m currently learning Concepts of Apache Kafka
+- 👯 I’m looking to collaborate on Azure and Dotnet related projects
+- 📫 How to reach me: sebastian@meyer-itconsulting.de
+
 <!--
 **msitsoftware/msitsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
